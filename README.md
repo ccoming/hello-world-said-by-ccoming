@@ -1,2 +1,3 @@
 # hello-world-said-by-ccoming
-this is ccoming, hello world.
+this is ccoming. I am from Mars
+nice to meet you.
